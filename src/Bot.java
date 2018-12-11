@@ -70,7 +70,7 @@ public class Bot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "678845754:AAF0DA0WcNCH5przDuB7fpaS3QuCpG9lB6M";   // TODO: insert TOKEN
+        return "";   // TODO: insert TOKEN
     }
 
                             /**TODO необходимо объ€вить класс и перенести все в кейборд*/
@@ -206,3 +206,9 @@ public class Bot extends TelegramLongPollingBot {
             e.printStackTrace();}
     }
 }
+
+            /**.
+             *Developer: Zhuk Aleksandr
+             *St. Petersburg
+             *bio: @afqspirit -telegram/git-hub
+             */

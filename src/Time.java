@@ -2,7 +2,7 @@ import java.util.Date;
  /**
   * Здесь БД?
   * ВРЕМЯ ТУТ!!!
-  * 
+  *
   * */
 
 public class Time {
@@ -16,3 +16,10 @@ public class Time {
     Date date = new Date();
 
 }
+
+
+            /**.
+             *Developer: Zhuk Aleksandr
+             *St. Petersburg
+             *bio: @afqspirit -telegram/git-hub
+             */

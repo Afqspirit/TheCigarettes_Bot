@@ -59,4 +59,8 @@ public class Main {
     */
 
 
-
+            /**.
+             *Developer: Zhuk Aleksandr
+             *St. Petersburg
+             *bio: @afqspirit -telegram/git-hub
+             */
