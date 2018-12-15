@@ -5,6 +5,7 @@ import org.telegram.telegrambots.meta.TelegramBotsApi;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Message;
 import org.telegram.telegrambots.meta.api.objects.Update;
+import org.telegram.telegrambots.meta.api.objects.User;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardRow;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
@@ -90,6 +91,7 @@ public class Bot extends TelegramLongPollingBot {
                               {sendMag(message, "ѕривет, сигаретный бот к вашим услугам. “ы мне будешь говорить, когда ты куришь, а € тебе присылать всю статистику, раз в день/неделю/мес€ц");
                                     /** заводим Ѕƒ +час+им€+цена сиг**/
                               sendMag(message, "Click /help  чтобы увидеть все  комманды");
+                                //  sendMag(message, ); //todo test user function
                               System.out.println(message.getText());
 
 
